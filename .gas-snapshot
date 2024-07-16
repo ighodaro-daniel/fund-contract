@@ -1,0 +1,8 @@
+FundMeTest:testAddedFunderToArrayOfFunders() (gas: 99997)
+FundMeTest:testFailForNotEnoughEthUsd() (gas: 20169)
+FundMeTest:testMinimumUsd() (gas: 8441)
+FundMeTest:testOnwerWithdrawBalance() (gas: 88900)
+FundMeTest:testOnwerWithdrawBalanceCheaper() (gas: 87668)
+FundMeTest:testOwner() (gas: 12258)
+FundMeTest:testUpdatefundAccount() (gas: 99832)
+FundMeTest:testVersionIsAccurate() (gas: 13599)
